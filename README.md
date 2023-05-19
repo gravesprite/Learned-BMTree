@@ -4,7 +4,7 @@
 
 This is the open codebase for the project: Learned BMTree
 
-### Requirement
+## Requirement
 
 PostgreSQL: https://www.postgresql.org/download/
 
