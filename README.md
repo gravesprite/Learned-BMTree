@@ -32,5 +32,16 @@ Testing BMTree under PostgreSQL:
 python pg_test.py --pg_test_method bmtree  --data uniform_1000000 --query skew_2000_dim2 --bmtree mcts_bmtree_uni_skew_1000 --db_password ''
 ```
 
-
+Kindly cite our paper if you find it helpful:
+```bibtex
+@inproceedings{bmtree2023,
+  title={Towards Designing and Learning Piecewise Space-Filling Curves},
+  author={Li, Jiangneng and Wang, Zheng and Cong, Gao and Long, Cheng and Kiah, Han Mao and Cui, Bin},
+  journal={Proceedings of the VLDB Endowment},
+  volume={16},
+  number={9},
+  year={2023},
+  publisher={VLDB Endowment}
+}
+```
 
