@@ -32,7 +32,7 @@ Testing BMTree under PostgreSQL:
 python pg_test.py --pg_test_method bmtree  --data uniform_1000000 --query skew_2000_dim2 --bmtree mcts_bmtree_uni_skew_1000 --db_password ''
 ```
 
-## Cite our paper
+## Citation
 
 Kindly cite our paper if you find it helpful:
 ```bibtex
